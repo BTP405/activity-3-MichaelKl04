@@ -24,5 +24,4 @@ if __name__ == '__main__':
             fi.close() 
   
         except IOError: 
-            print('You entered an invalid filename!\ 
-                Please enter a valid name') 
+            print('You entered an invalid filename!\ Please enter a valid name')
